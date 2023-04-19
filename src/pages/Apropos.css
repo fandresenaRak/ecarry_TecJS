@@ -1,0 +1,17 @@
+.cont2{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
+p{
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    color: whitesmoke;
+
+}
+nav li{
+    font-size: 20px;
+    color: gainsboro;
+    margin-bottom: 20px;
+}
